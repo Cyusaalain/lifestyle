@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663874707473",
+    "project_id": "lifestyleapp-d76bf",
+    "storage_bucket": "lifestyleapp-d76bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663874707473:android:7c54b1f00ee6ee3c19d1b0",
+        "android_client_info": {
+          "package_name": "com.example.lifestyle_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFpr5b7eAs5qZarKnW3hkFWxQSUZUGgMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
