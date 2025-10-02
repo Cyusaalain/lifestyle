@@ -78,6 +78,7 @@ Web: firebase_options.dart (via flutterfire configure)
 4. Run the App
 
 https://lifestyleapp-d76bf.web.app
+
 flutter run
 
 🗂 Firestore Collections
